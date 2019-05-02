@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{2D189EC5-9022-46A8-846D-14349A95B16D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{3861A370-266F-44F4-A0EC-07847AD3378A}"
-	ProjectSection(SolutionItems) = preProject
-		Readme.md = Readme.md
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1812ACE8-8AA2-4794-9014-939299B36DB9}"
 EndProject
@@ -32,7 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C4B426E6-32E7-41E9-A0E2-D0E498C468E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSJK.Public", "OSJK.Public\OSJK.Public.csproj", "{F7505C00-B9EA-4F42-A39F-216E826D6A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OSJK.Public", "OSJK.Public\OSJK.Public.csproj", "{F7505C00-B9EA-4F42-A39F-216E826D6A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
